@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name kedder)(type Legacy)(uri /home/andrey/projects/electronics/lib/kedder.lib)(options "")(descr ""))
+  (lib (name flarmusb)(type Legacy)(uri /home/andrey/projects/electronics/flarmusb/flarmusb.lib)(options "")(descr ""))
+)

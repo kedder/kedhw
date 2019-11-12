@@ -1,6 +1,6 @@
 EESchema Schematic File Version 4
 LIBS:flarmusb-cache
-EELAYER 26 0
+EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -63,7 +63,7 @@ L Connector:Barrel_Jack_Switch J2
 U 1 1 5DA9105C
 P 8100 5700
 F 0 "J2" H 8155 6017 50  0000 C CNN
-F 1 "Barrel_Jack_Switch" H 8155 5926 50  0000 C CNN
+F 1 "DC-002" H 8155 5926 50  0000 C CNN
 F 2 "flarmusb:DC002" H 8150 5660 50  0001 C CNN
 F 3 "~" H 8150 5660 50  0001 C CNN
 	1    8100 5700

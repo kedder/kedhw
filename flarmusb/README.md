@@ -18,6 +18,6 @@ operate at 19600 baud.
 ## Schematics
 
 Current schematics can be also downloaded in
-[PDF format](/drawings/flarmusb.pdf?raw=true).
+[PDF format](drawings/flarmusb.pdf?raw=true).
 
 ![Schematic](drawings/flarmusb.png?raw=true "Schematic")

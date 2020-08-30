@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Kedder Terminals")(type KiCad)(uri ${ANDREY_LIB}/connectors.pretty)(options "")(descr ""))
+  (lib (name flarmsplit)(type KiCad)(uri ${KIPRJMOD}/flarmsplit.pretty)(options "")(descr ""))
+)

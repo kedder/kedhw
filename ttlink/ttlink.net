@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/andrey/projects/electronics/kedhw/ttlink/ttlink.sch)
-    (date "Sun 30 Aug 2020 10:03:40 PM EEST")
+    (date "Wed 16 Sep 2020 09:56:59 PM EEST")
     (tool "Eeschema 5.1.5+dfsg1-2build2")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -38,7 +38,7 @@
       (tstamp 5F4B4600))
     (comp (ref J1)
       (value USB)
-      (footprint Connector_USB:USB_A_Molex_105057_Vertical)
+      (footprint ttlink:USB2_A_Plug_Horizontal)
       (datasheet " ~")
       (libsource (lib Connector) (part USB_A) (description "USB Type A connector"))
       (sheetpath (names /) (tstamps /))

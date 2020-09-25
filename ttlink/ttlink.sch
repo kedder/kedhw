@@ -4,11 +4,11 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
+Title "USB-TTL adapter"
+Date "2020-08-30"
+Rev "1.0"
+Comp "Andrey Lebedev"
+Comment1 "USB adapter to connect Nano 4 / Oudie to Openvario"
 Comment2 ""
 Comment3 ""
 Comment4 ""
